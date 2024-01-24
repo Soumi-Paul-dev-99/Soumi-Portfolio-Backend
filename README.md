@@ -1,6 +1,6 @@
-.env
+please add in .env file 
 
-PORT = 8080
+PORT =
 
 DB_URI = 
 
