@@ -16,9 +16,9 @@ app.use(express.json());
 
 app.use("/api/v1/portfolio", portfolioRoutes);
 
-app.get("*", function (req, res) {
-  // res.sendFile(path.join(__dirname, "./portfolio-client/dist/index.html"));
-});
+// app.get("*", function (req, res) {
+//   // res.sendFile(path.join(__dirname, "./portfolio-client/dist/index.html"));
+// });
 
 app.get("/", (req, res) => {
   res.send("api called");
