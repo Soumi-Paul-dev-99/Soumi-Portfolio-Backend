@@ -1,7 +1,10 @@
-please add in .env file 
+please add in .env file
 
 PORT =
 
-DB_URI = 
+DB_URI =
 
 SENDGRID_API_KEY =
+
+live link
+https://soumi-portfolio-frontend.vercel.app/
