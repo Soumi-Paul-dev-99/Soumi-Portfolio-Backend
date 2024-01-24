@@ -1,0 +1,7 @@
+.env
+
+PORT = 8080
+
+DB_URI = 
+
+SENDGRID_API_KEY =
